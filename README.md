@@ -2,8 +2,10 @@
 ## README.md
 
 ```markdown
--Updated by Hassan 'zimkk' Nazir
-This application is a simple voice assistant that uses OpenAI's GPT-3 to respond to user queries. It can recognize speech, generate responses using GPT-3, and perform basic actions such as opening websites.
+
+- Updated by Hassan 'zimkk' Nazir
+
+This simple voice assistant application uses OpenAI's GPT-3 to respond to user queries. It can recognize speech, generate responses using GPT-3, and perform basic actions such as opening websites.
 
 ## Features
 
