@@ -1,5 +1,3 @@
-# powerfull_jarvis_python
-## README.md
 
 ```markdown
 
